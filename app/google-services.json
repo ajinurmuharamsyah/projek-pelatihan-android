@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "758556135390",
+    "project_id": "library-app-c3d4d",
+    "storage_bucket": "library-app-c3d4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758556135390:android:1ffe4feb64c0fdaa6ed74f",
+        "android_client_info": {
+          "package_name": "com.example.buku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758556135390-8m8rmhckl9pbh137ogh9sronva6pseq5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.buku",
+            "certificate_hash": "dec12d7bb1f0f32bbc1adf4ab819899155c326dc"
+          }
+        },
+        {
+          "client_id": "758556135390-hfpbq82s3nak624f08gdan385vsb6ede.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGrmQS7kI-ujTsbtjnxeDK0-ABGz486Do"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758556135390-hfpbq82s3nak624f08gdan385vsb6ede.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
